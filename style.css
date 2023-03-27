@@ -70,12 +70,6 @@ input[type="password"] {
 }
 
 
-/* to override chrome */
-
-#myPassword {
-    background: transparent!important;
-}
-
 #myEmail {
     margin-left: 30px;
 }
